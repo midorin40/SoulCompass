@@ -1,0 +1,8 @@
+{
+  "name": "Soul-Compass",
+  "description": "High-precision multimodal psychological profiler for self-understanding and care.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
